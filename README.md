@@ -1,6 +1,9 @@
 # RecipeWhisper🎧🍳
 Transform cooking videos into structured recipes using AI-powered audio transcription and intelligent parsing.
 
+# Demo
+https://github.com/user-attachments/assets/1ac24b6e-c468-4572-b5d9-f249c3921c02
+
 ## What it does
 RecipeWhisper automatically extracts recipes from YouTube cooking videos by:
 
